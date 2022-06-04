@@ -1,0 +1,46 @@
+body {
+  background-color: bisque;
+}
+header {
+    Padding: 30px;
+    /* background-color: bisque; */
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    font: bolder;
+    display: flex;
+    /* text-decoration: underline;
+      text-decoration-color: black; */
+    
+}
+#headerINline{
+  margin-top: 10px;
+}
+ ul {
+    display: end;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /* background-color: white; */
+    /* justify-content: end; */
+  }
+  
+li {
+    float: right;
+    margin: 10px;
+    /* text-align: center; */
+    font: 0;
+    font-size: 22px;
+  }
+/* #aboutMe{
+  display: flex;
+  margin-top: 15px;
+}
+h1 {
+  display:inline-block;
+  padding-right: 10px;
+  border-right: 3px solid bisque;
+  margin-right: 10px;
+  }  */
+
